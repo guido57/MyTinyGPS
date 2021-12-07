@@ -8,8 +8,6 @@ Its purpose is to show how parse and use GPGSV and GPSSA to show:
 - their azimuth, elevation and SNR
 
 in this way:
+![alt text](images/MyTinyGps_screen.png)
 
 
-![alt text](images/esp32_loraprs_gps_overview.PNG)
-
-]()
