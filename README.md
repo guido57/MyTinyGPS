@@ -1,6 +1,6 @@
 # MyTinyGPS
 
-This code is forked from an example framo https://github.com/mikalhart/TinyGPSPlus
+This code is forked from https://github.com/mikalhart/TinyGPSPlus/tree/master/examples/UsingCustomFields by 
 
 Its purpose is to show how parse and use GPGSV and GPSSA to show:
 - satellites in view
