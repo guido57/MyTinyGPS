@@ -10,6 +10,6 @@ Its purpose is to show how parse and use GPGSV and GPGSA to show:
 in this way:
 ![alt text](images/MyTinyGps_screen.png)
 
-See further details on main.cpp
+See further details on [main.cpp](src/main.cpp)
 
 
