@@ -1,6 +1,6 @@
 # MyTinyGPS
 
-This code is forked from https://github.com/mikalhart/TinyGPSPlus/tree/master/examples/UsingCustomFields by https://github.com/mikalhart
+This code is forked from https://github.com/mikalhart/TinyGPSPlus/tree/master/examples/UsingCustomFields by [Mikal Hart](https://github.com/mikalhart)
 
 Its purpose is to show how parse and use GPGSV and GPSSA to show:
 - satellites in view
@@ -9,3 +9,7 @@ Its purpose is to show how parse and use GPGSV and GPSSA to show:
 
 in this way:
 
+
+![alt text](images/esp32_loraprs_gps_overview.PNG)
+
+]()
