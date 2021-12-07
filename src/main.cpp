@@ -11,7 +11,7 @@
    each monitoring a different field of the $GPGSV sentence.
 
    It requires the use of SoftwareSerial, and assumes that you have a
-   4800-baud serial GPS device hooked up on pins 4(RX) and 3(TX).
+   4800-baud serial GPS device hooked up with RX and TX pins. See below how to set the pins.
 */
 
 // The TinyGPS++ object
